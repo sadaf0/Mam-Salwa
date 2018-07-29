@@ -1,0 +1,35 @@
+D:\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+D:\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
+D:\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Form1.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.Cache
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Patient.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.connection.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.bill.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.allrecord.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Employee.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.doctor.resources
+D:\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Appointment.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.allrecord.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Appointment.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.bill.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.connection.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.doctor.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Employee.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Form1.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Patient.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+G:\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.Cache
+G:\MAAM SALWA\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+G:\MAAM SALWA\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+G:\MAAM SALWA\SADAF DBMS\ALL WORK OF DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb

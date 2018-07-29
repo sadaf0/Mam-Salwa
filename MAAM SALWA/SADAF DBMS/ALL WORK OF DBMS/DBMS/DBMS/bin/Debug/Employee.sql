@@ -1,0 +1,1 @@
+create table employee(Employee_ID int identity(1,1) Not Null, Emp_Name varchar(50) Null, Sex varchar(50) Null, Emp_Salary varchar(50) Null, Emp_Qualification varchar(50) Null, Emp_Contact varchar(50) Null)
